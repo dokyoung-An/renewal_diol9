@@ -520,7 +520,7 @@
     <control invertwheel="0" lockedkeyboard="0" hideabout="1" sensitivity="8" speedwheel="1" zoomcentercursor="1" rubberband="0" contextvr="1" lockedwheel="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" contextprojections="0" lockedmouse="0" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
   </panorama>
   <masternode>
-    <userdata description="" title="복도" author="" copyright="" tags="" comment=""/>
+    <userdata description="#사이버모델하우스 #e모델하우스 #가상공간 " title="언픽션 사이버 모델하우스" author="언픽션" copyright="언픽션" tags="" comment="언픽션 사이버 모델하우스 입니다."/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>
